@@ -1,5 +1,5 @@
-```
-~ Run Docker on DigitalOcean
+Run Docker on DigitalOcean
+==========================
 
 $ terraform init
 
@@ -22,4 +22,3 @@ $ terraform apply \
     -var "droplet_name=$DROPLET_NAME"
 
 $ terraform show terraform.tfstate
-```
