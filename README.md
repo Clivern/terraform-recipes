@@ -19,6 +19,7 @@ git clone https://github.com/Clivern/terraform-recipes.git
 
 ```zsh
 $ cd do-docker
+
 $ terraform init
 
 # Get SSH Fingerprint
