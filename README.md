@@ -9,7 +9,13 @@
 
 ## Documentation
 
-Run docker & docker-compose on digitalocean:
+Clone the Repository:
+
+```zsh
+git clone https://github.com/Clivern/terraform-recipes.git
+```
+
+📦 Run docker & docker-compose on digitalocean
 
 ```zsh
 $ cd do-docker
